@@ -56,4 +56,4 @@ npm run demo
 
 ---
 
-Built with focus on **Security First** by Antigravity.
+Built with focus on **Security First** by ruok.
